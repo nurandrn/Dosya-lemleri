@@ -1,0 +1,34 @@
+c:\users\samsung\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Samsung\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2012\Projects\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\dosya da sıralama\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
